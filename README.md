@@ -51,7 +51,7 @@ Before running the application, make sure you have the following prerequisites i
 
 3. Run the following command in the Package Manager Console to set up the SQLite database:
 
-![image](https://github.com/wasiu15/TaskManagerV2/assets/66498295/485f8704-e3a4-45d2-b5c6-d1ea499b0003)
+   ![image](https://github.com/wasiu15/TaskManagerV2/assets/66498295/485f8704-e3a4-45d2-b5c6-d1ea499b0003)
 
 4. Database
    SQLite is used as the database for this application.
